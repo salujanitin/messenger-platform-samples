@@ -1,6 +1,6 @@
 {
     "appSecret": "",
     "pageAccessToken": "",
-    "validationToken": "",
+    "validationToken": "test_token_salujan",
     "serverURL": ""
 }
